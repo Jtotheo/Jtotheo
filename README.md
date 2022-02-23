@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jtotheo, my name is Jonas Gehlin.
 - 👀 I’m interested in music, books, movies, games and food!
-- 🌱 I’m currently learning Javascript, Express, React - I am at date (September 2021) enrolled in a front end developer-boot camp.
+- 🌱 Upon having completed a front end developer-boot camp, and I am now working as a junior consultant at Academic Work in Stockholm, Sweden.
 - 💞️ I’m looking to collaborate on anything anyone would have me onboard on, as long as I have the time.
 - 📫 How to reach me jonas.gehlin@gmail.com
 
